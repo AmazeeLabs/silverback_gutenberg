@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_gutenberg",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -8,5 +8,8 @@
     "repository": "git@github.com:AmazeeLabs/silverback_gutenberg.git",
     "branch": "main"
   },
-  "gitHead": "a8b45d4117ff1e0f6f337078604c6d1ba5c0a1bf"
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "gitHead": "0369b79a156b96906d0bd0b9b3797f58731298d5"
 }
