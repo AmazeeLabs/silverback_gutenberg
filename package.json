@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_gutenberg",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -20,17 +20,17 @@
     "test:watch": "jest --watch"
   },
   "devDependencies": {
-    "@amazeelabs/eslint-config": "^1.4.22",
-    "@amazeelabs/jest-preset": "^1.3.25",
+    "@amazeelabs/eslint-config": "^1.4.23",
+    "@amazeelabs/jest-preset": "^1.3.26",
     "@amazeelabs/prettier-config": "^1.1.1",
     "@amazeelabs/sync-composer-version": "^1.1.2",
     "@types/jest": "27.4.1",
-    "eslint": "8.11.0",
+    "eslint": "8.12.0",
     "jest": "27.5.1",
     "lint-staged": "12.3.7",
-    "prettier": "2.6.0",
-    "ts-jest": "27.1.3",
-    "typescript": "4.6.2"
+    "prettier": "2.6.1",
+    "ts-jest": "27.1.4",
+    "typescript": "4.6.3"
   },
-  "gitHead": "54997927544866e43a7a11519e168289c23b52a9"
+  "gitHead": "ca3980a59f205d6ce73bc3a84b35438126a36d3c"
 }
