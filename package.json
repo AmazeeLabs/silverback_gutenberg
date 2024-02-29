@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_gutenberg",
-  "version": "2.5.12",
+  "version": "2.5.13",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -18,9 +18,9 @@
     "@amazeelabs/prettier-config": "1.1.3",
     "@amazeelabs/sync-composer-version": "1.1.3",
     "@types/jest": "29.5.12",
-    "eslint": "8.56.0",
+    "eslint": "8.57.0",
     "prettier": "3.2.5",
     "typescript": "5.3.3"
   },
-  "gitHead": "9bebc38491456ac615cf33d01f8f272110fda0d9"
+  "gitHead": "d0db685c1d9af299d4327581605a368cd025ff21"
 }
