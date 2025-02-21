@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_gutenberg",
-  "version": "2.5.24",
+  "version": "2.5.25",
   "author": "Amazee Labs <development@amazeelabs.com>",
   "publishConfig": {
     "access": "public",
@@ -14,5 +14,5 @@
   "devDependencies": {
     "@amazeelabs/sync-composer-version": "1.1.5"
   },
-  "gitHead": "8f2b7b917eb2fe83f02dc3becb4c9047abb09389"
+  "gitHead": "44f07c14e42cba7d6e29de6bc25830e11de4b97d"
 }
